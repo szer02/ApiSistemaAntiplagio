@@ -1,0 +1,6 @@
+@SistemaAntiplagio_HostAddress = http://localhost:5052
+
+GET {{SistemaAntiplagio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
